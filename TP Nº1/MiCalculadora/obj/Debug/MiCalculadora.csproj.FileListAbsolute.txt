@@ -1,0 +1,39 @@
+C:\Users\Usuario\Desktop\KPlucci\tepedos\Plucci.MartinKevin-TP\MiCalculadora\bin\Debug\MiCalculadora.exe.config
+C:\Users\Usuario\Desktop\KPlucci\tepedos\Plucci.MartinKevin-TP\MiCalculadora\bin\Debug\MiCalculadora.exe
+C:\Users\Usuario\Desktop\KPlucci\tepedos\Plucci.MartinKevin-TP\MiCalculadora\bin\Debug\MiCalculadora.pdb
+C:\Users\Usuario\Desktop\KPlucci\tepedos\Plucci.MartinKevin-TP\MiCalculadora\bin\Debug\Entidades.dll
+C:\Users\Usuario\Desktop\KPlucci\tepedos\Plucci.MartinKevin-TP\MiCalculadora\bin\Debug\Entidades.pdb
+C:\Users\Usuario\Desktop\KPlucci\tepedos\Plucci.MartinKevin-TP\MiCalculadora\obj\Debug\MiCalculadora.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\KPlucci\tepedos\Plucci.MartinKevin-TP\MiCalculadora\obj\Debug\MiCalculadora.FormCalculadora.resources
+C:\Users\Usuario\Desktop\KPlucci\tepedos\Plucci.MartinKevin-TP\MiCalculadora\obj\Debug\MiCalculadora.Properties.Resources.resources
+C:\Users\Usuario\Desktop\KPlucci\tepedos\Plucci.MartinKevin-TP\MiCalculadora\obj\Debug\MiCalculadora.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\KPlucci\tepedos\Plucci.MartinKevin-TP\MiCalculadora\obj\Debug\MiCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\KPlucci\tepedos\Plucci.MartinKevin-TP\MiCalculadora\obj\Debug\MiCalculadora.csproj.CopyComplete
+C:\Users\Usuario\Desktop\KPlucci\tepedos\Plucci.MartinKevin-TP\MiCalculadora\obj\Debug\MiCalculadora.exe
+C:\Users\Usuario\Desktop\KPlucci\tepedos\Plucci.MartinKevin-TP\MiCalculadora\obj\Debug\MiCalculadora.pdb
+C:\Users\Usuario\Desktop\KPlucci\tepedos\TP Nº1\Plucci.MartinKevin-TP\MiCalculadora\bin\Debug\MiCalculadora.exe.config
+C:\Users\Usuario\Desktop\KPlucci\tepedos\TP Nº1\Plucci.MartinKevin-TP\MiCalculadora\bin\Debug\MiCalculadora.exe
+C:\Users\Usuario\Desktop\KPlucci\tepedos\TP Nº1\Plucci.MartinKevin-TP\MiCalculadora\bin\Debug\MiCalculadora.pdb
+C:\Users\Usuario\Desktop\KPlucci\tepedos\TP Nº1\Plucci.MartinKevin-TP\MiCalculadora\bin\Debug\Entidades.dll
+C:\Users\Usuario\Desktop\KPlucci\tepedos\TP Nº1\Plucci.MartinKevin-TP\MiCalculadora\bin\Debug\Entidades.pdb
+C:\Users\Usuario\Desktop\KPlucci\tepedos\TP Nº1\Plucci.MartinKevin-TP\MiCalculadora\obj\Debug\MiCalculadora.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\KPlucci\tepedos\TP Nº1\Plucci.MartinKevin-TP\MiCalculadora\obj\Debug\MiCalculadora.FormCalculadora.resources
+C:\Users\Usuario\Desktop\KPlucci\tepedos\TP Nº1\Plucci.MartinKevin-TP\MiCalculadora\obj\Debug\MiCalculadora.Properties.Resources.resources
+C:\Users\Usuario\Desktop\KPlucci\tepedos\TP Nº1\Plucci.MartinKevin-TP\MiCalculadora\obj\Debug\MiCalculadora.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\KPlucci\tepedos\TP Nº1\Plucci.MartinKevin-TP\MiCalculadora\obj\Debug\MiCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\KPlucci\tepedos\TP Nº1\Plucci.MartinKevin-TP\MiCalculadora\obj\Debug\MiCalculadora.csproj.CopyComplete
+C:\Users\Usuario\Desktop\KPlucci\tepedos\TP Nº1\Plucci.MartinKevin-TP\MiCalculadora\obj\Debug\MiCalculadora.exe
+C:\Users\Usuario\Desktop\KPlucci\tepedos\TP Nº1\Plucci.MartinKevin-TP\MiCalculadora\obj\Debug\MiCalculadora.pdb
+C:\Users\Usuario\Desktop\KPlucci\trabajos segundo cuatri\TP Nº1\MiCalculadora\bin\Debug\MiCalculadora.exe.config
+C:\Users\Usuario\Desktop\KPlucci\trabajos segundo cuatri\TP Nº1\MiCalculadora\bin\Debug\MiCalculadora.exe
+C:\Users\Usuario\Desktop\KPlucci\trabajos segundo cuatri\TP Nº1\MiCalculadora\bin\Debug\MiCalculadora.pdb
+C:\Users\Usuario\Desktop\KPlucci\trabajos segundo cuatri\TP Nº1\MiCalculadora\bin\Debug\Entidades.dll
+C:\Users\Usuario\Desktop\KPlucci\trabajos segundo cuatri\TP Nº1\MiCalculadora\bin\Debug\Entidades.pdb
+C:\Users\Usuario\Desktop\KPlucci\trabajos segundo cuatri\TP Nº1\MiCalculadora\obj\Debug\MiCalculadora.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\KPlucci\trabajos segundo cuatri\TP Nº1\MiCalculadora\obj\Debug\MiCalculadora.FormCalculadora.resources
+C:\Users\Usuario\Desktop\KPlucci\trabajos segundo cuatri\TP Nº1\MiCalculadora\obj\Debug\MiCalculadora.Properties.Resources.resources
+C:\Users\Usuario\Desktop\KPlucci\trabajos segundo cuatri\TP Nº1\MiCalculadora\obj\Debug\MiCalculadora.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\KPlucci\trabajos segundo cuatri\TP Nº1\MiCalculadora\obj\Debug\MiCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\KPlucci\trabajos segundo cuatri\TP Nº1\MiCalculadora\obj\Debug\MiCalculadora.csproj.CopyComplete
+C:\Users\Usuario\Desktop\KPlucci\trabajos segundo cuatri\TP Nº1\MiCalculadora\obj\Debug\MiCalculadora.exe
+C:\Users\Usuario\Desktop\KPlucci\trabajos segundo cuatri\TP Nº1\MiCalculadora\obj\Debug\MiCalculadora.pdb
