@@ -1,0 +1,12 @@
+C:\Users\Usuario\Desktop\KPlucci\tepedos\Plucci.MartinKevin-TP\Entidades\bin\Debug\Entidades.dll
+C:\Users\Usuario\Desktop\KPlucci\tepedos\Plucci.MartinKevin-TP\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Usuario\Desktop\KPlucci\tepedos\Plucci.MartinKevin-TP\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\KPlucci\tepedos\Plucci.MartinKevin-TP\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\KPlucci\tepedos\Plucci.MartinKevin-TP\Entidades\obj\Debug\Entidades.dll
+C:\Users\Usuario\Desktop\KPlucci\tepedos\Plucci.MartinKevin-TP\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Usuario\Desktop\KPlucci\tepedos\TP Nº1\Plucci.MartinKevin-TP\Entidades\bin\Debug\Entidades.dll
+C:\Users\Usuario\Desktop\KPlucci\tepedos\TP Nº1\Plucci.MartinKevin-TP\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Usuario\Desktop\KPlucci\tepedos\TP Nº1\Plucci.MartinKevin-TP\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\KPlucci\tepedos\TP Nº1\Plucci.MartinKevin-TP\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\KPlucci\tepedos\TP Nº1\Plucci.MartinKevin-TP\Entidades\obj\Debug\Entidades.dll
+C:\Users\Usuario\Desktop\KPlucci\tepedos\TP Nº1\Plucci.MartinKevin-TP\Entidades\obj\Debug\Entidades.pdb
