@@ -1,0 +1,20 @@
+C:\Users\Usuario\Desktop\TP Nº2\Plucci.Kevin.2ºA.TPFinal\Test de Consola\bin\Debug\Test de Consola.exe.config
+C:\Users\Usuario\Desktop\TP Nº2\Plucci.Kevin.2ºA.TPFinal\Test de Consola\bin\Debug\Test de Consola.exe
+C:\Users\Usuario\Desktop\TP Nº2\Plucci.Kevin.2ºA.TPFinal\Test de Consola\bin\Debug\Test de Consola.pdb
+C:\Users\Usuario\Desktop\TP Nº2\Plucci.Kevin.2ºA.TPFinal\Test de Consola\bin\Debug\Entidades.dll
+C:\Users\Usuario\Desktop\TP Nº2\Plucci.Kevin.2ºA.TPFinal\Test de Consola\bin\Debug\Entidades.pdb
+C:\Users\Usuario\Desktop\TP Nº2\Plucci.Kevin.2ºA.TPFinal\Test de Consola\obj\Debug\Test de Consola.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\TP Nº2\Plucci.Kevin.2ºA.TPFinal\Test de Consola\obj\Debug\Test de Consola.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\TP Nº2\Plucci.Kevin.2ºA.TPFinal\Test de Consola\obj\Debug\Test de Consola.csproj.CopyComplete
+C:\Users\Usuario\Desktop\TP Nº2\Plucci.Kevin.2ºA.TPFinal\Test de Consola\obj\Debug\Test de Consola.exe
+C:\Users\Usuario\Desktop\TP Nº2\Plucci.Kevin.2ºA.TPFinal\Test de Consola\obj\Debug\Test de Consola.pdb
+C:\Users\Usuario\Desktop\TP Nº3\Plucci.Kevin.2ºA.TPFinal\Test de Consola\bin\Debug\Test de Consola.exe.config
+C:\Users\Usuario\Desktop\TP Nº3\Plucci.Kevin.2ºA.TPFinal\Test de Consola\bin\Debug\Test de Consola.exe
+C:\Users\Usuario\Desktop\TP Nº3\Plucci.Kevin.2ºA.TPFinal\Test de Consola\bin\Debug\Test de Consola.pdb
+C:\Users\Usuario\Desktop\TP Nº3\Plucci.Kevin.2ºA.TPFinal\Test de Consola\bin\Debug\Entidades.dll
+C:\Users\Usuario\Desktop\TP Nº3\Plucci.Kevin.2ºA.TPFinal\Test de Consola\bin\Debug\Entidades.pdb
+C:\Users\Usuario\Desktop\TP Nº3\Plucci.Kevin.2ºA.TPFinal\Test de Consola\obj\Debug\Test de Consola.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\TP Nº3\Plucci.Kevin.2ºA.TPFinal\Test de Consola\obj\Debug\Test de Consola.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\TP Nº3\Plucci.Kevin.2ºA.TPFinal\Test de Consola\obj\Debug\Test de Consola.csproj.CopyComplete
+C:\Users\Usuario\Desktop\TP Nº3\Plucci.Kevin.2ºA.TPFinal\Test de Consola\obj\Debug\Test de Consola.exe
+C:\Users\Usuario\Desktop\TP Nº3\Plucci.Kevin.2ºA.TPFinal\Test de Consola\obj\Debug\Test de Consola.pdb
