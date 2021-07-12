@@ -8,6 +8,9 @@ namespace Entidades
 
 {
    #region Enum de Calidad
+    /// <summary>
+    /// Enumerado de Calidad de Video
+    /// </summary>
     public enum ECalidad
     {
         FullHD,

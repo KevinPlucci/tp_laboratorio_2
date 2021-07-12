@@ -7,6 +7,9 @@ using System.Threading.Tasks;
 namespace Entidades
 {
     #region Enum de Marcas Monitores
+    /// <summary>
+    /// Enumerado de Marcas de Monitor
+    /// </summary>
     public enum EMarcaMoni
     {
         

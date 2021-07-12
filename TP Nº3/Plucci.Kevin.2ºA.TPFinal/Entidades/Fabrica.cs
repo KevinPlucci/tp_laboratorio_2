@@ -10,7 +10,7 @@ namespace Entidades
     [Serializable]
     [XmlInclude(typeof(Television))]
     [XmlInclude(typeof(Monitor))]
-    public class Fabrica <P>
+    public class Fabrica <P> where P : Producto
     {
         
         #region Atributos
@@ -18,6 +18,9 @@ namespace Entidades
         public List<Producto> productos;
         #endregion
 
+        /// <summary>
+        /// La capacidad de Fabricacion(cupo limitado)
+        /// </summary>
         #region Propiedades
         public int Capacidad 
         {
@@ -90,11 +93,11 @@ namespace Entidades
         public static bool operator ==(Fabrica<P> d, Producto p) 
         {
             bool retorno = false;
-
+        try
+        {
             foreach (Producto item in d.productos)
             {
-                try
-                {
+
                     if (item is Monitor && p is Monitor)
                     {
                         if ((Monitor)item == (Monitor)p)
@@ -109,15 +112,14 @@ namespace Entidades
                             return true;
                         }
                     }
-                }
-                catch(Exception ex)
-                { 
-                    
-                }
+            }    
+        }
+        catch(Exception ex){}
 
-            }
             return retorno;
         }
+        
+        
         /// <summary>
         /// Sobrecarga del operador distinto entre dos productos
         /// </summary>
@@ -128,6 +130,8 @@ namespace Entidades
         {
             return !(d == p);
         }
+        
+        
         /// <summary>
         /// Sobrecarga del operador +
         /// </summary>
@@ -154,6 +158,7 @@ namespace Entidades
             }
             return d;
         }
+        
         /// <summary>
         /// Sobrecarga del operador -
         /// </summary>

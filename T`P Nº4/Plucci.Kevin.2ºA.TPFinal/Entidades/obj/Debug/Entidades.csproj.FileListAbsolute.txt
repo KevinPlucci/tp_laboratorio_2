@@ -1,0 +1,36 @@
+C:\Users\Usuario\Desktop\TP Nº2\Plucci.Kevin.2ºA.TPFinal\Entidades\bin\Debug\Entidades.dll
+C:\Users\Usuario\Desktop\TP Nº2\Plucci.Kevin.2ºA.TPFinal\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Usuario\Desktop\TP Nº2\Plucci.Kevin.2ºA.TPFinal\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\TP Nº2\Plucci.Kevin.2ºA.TPFinal\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\TP Nº2\Plucci.Kevin.2ºA.TPFinal\Entidades\obj\Debug\Entidades.dll
+C:\Users\Usuario\Desktop\TP Nº2\Plucci.Kevin.2ºA.TPFinal\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Usuario\Desktop\TP Nº3\Plucci.Kevin.2ºA.TPFinal\Entidades\bin\Debug\Entidades.dll
+C:\Users\Usuario\Desktop\TP Nº3\Plucci.Kevin.2ºA.TPFinal\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Usuario\Desktop\TP Nº3\Plucci.Kevin.2ºA.TPFinal\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\TP Nº3\Plucci.Kevin.2ºA.TPFinal\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\TP Nº3\Plucci.Kevin.2ºA.TPFinal\Entidades\obj\Debug\Entidades.dll
+C:\Users\Usuario\Desktop\TP Nº3\Plucci.Kevin.2ºA.TPFinal\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Usuario\Desktop\alberto\TP_No3\TP Nº3\Plucci.Kevin.2ºA.TPFinal\Entidades\bin\Debug\Entidades.dll
+C:\Users\Usuario\Desktop\alberto\TP_No3\TP Nº3\Plucci.Kevin.2ºA.TPFinal\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Usuario\Desktop\alberto\TP_No3\TP Nº3\Plucci.Kevin.2ºA.TPFinal\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\alberto\TP_No3\TP Nº3\Plucci.Kevin.2ºA.TPFinal\Entidades\obj\Debug\Entidades.dll
+C:\Users\Usuario\Desktop\alberto\TP_No3\TP Nº3\Plucci.Kevin.2ºA.TPFinal\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Usuario\Desktop\alberto\TP_No3\TP Nº3\Plucci.Kevin.2ºA.TPFinal\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\KPlucci\tp_laboratorio_2\TP Nº3\Plucci.Kevin.2ºA.TPFinal\Entidades\bin\Debug\Entidades.dll
+C:\Users\Usuario\Desktop\KPlucci\tp_laboratorio_2\TP Nº3\Plucci.Kevin.2ºA.TPFinal\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Usuario\Desktop\KPlucci\tp_laboratorio_2\TP Nº3\Plucci.Kevin.2ºA.TPFinal\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\KPlucci\tp_laboratorio_2\TP Nº3\Plucci.Kevin.2ºA.TPFinal\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\KPlucci\tp_laboratorio_2\TP Nº3\Plucci.Kevin.2ºA.TPFinal\Entidades\obj\Debug\Entidades.dll
+C:\Users\Usuario\Desktop\KPlucci\tp_laboratorio_2\TP Nº3\Plucci.Kevin.2ºA.TPFinal\Entidades\obj\Debug\Entidades.pdb
+C:\Users\fran_\OneDrive\Desktop\Plucci.Kevin.2ºA.TPFinal\Entidades\bin\Debug\Entidades.dll
+C:\Users\fran_\OneDrive\Desktop\Plucci.Kevin.2ºA.TPFinal\Entidades\bin\Debug\Entidades.pdb
+C:\Users\fran_\OneDrive\Desktop\Plucci.Kevin.2ºA.TPFinal\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\fran_\OneDrive\Desktop\Plucci.Kevin.2ºA.TPFinal\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\fran_\OneDrive\Desktop\Plucci.Kevin.2ºA.TPFinal\Entidades\obj\Debug\Entidades.dll
+C:\Users\fran_\OneDrive\Desktop\Plucci.Kevin.2ºA.TPFinal\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Usuario\Desktop\T`P Nº4\Plucci.Kevin.2ºA.TPFinal\Entidades\bin\Debug\Entidades.dll
+C:\Users\Usuario\Desktop\T`P Nº4\Plucci.Kevin.2ºA.TPFinal\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Usuario\Desktop\T`P Nº4\Plucci.Kevin.2ºA.TPFinal\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\T`P Nº4\Plucci.Kevin.2ºA.TPFinal\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\T`P Nº4\Plucci.Kevin.2ºA.TPFinal\Entidades\obj\Debug\Entidades.dll
+C:\Users\Usuario\Desktop\T`P Nº4\Plucci.Kevin.2ºA.TPFinal\Entidades\obj\Debug\Entidades.pdb
