@@ -1,0 +1,13 @@
+C:\Users\Usuario\Desktop\Recuperatorio tps\PlucciKevinT`PNº1\MiCalculadora\bin\Debug\MiCalculadora.exe.config
+C:\Users\Usuario\Desktop\Recuperatorio tps\PlucciKevinT`PNº1\MiCalculadora\bin\Debug\MiCalculadora.exe
+C:\Users\Usuario\Desktop\Recuperatorio tps\PlucciKevinT`PNº1\MiCalculadora\bin\Debug\MiCalculadora.pdb
+C:\Users\Usuario\Desktop\Recuperatorio tps\PlucciKevinT`PNº1\MiCalculadora\bin\Debug\Entidades.dll
+C:\Users\Usuario\Desktop\Recuperatorio tps\PlucciKevinT`PNº1\MiCalculadora\bin\Debug\Entidades.pdb
+C:\Users\Usuario\Desktop\Recuperatorio tps\PlucciKevinT`PNº1\MiCalculadora\obj\Debug\MiCalculadora.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Recuperatorio tps\PlucciKevinT`PNº1\MiCalculadora\obj\Debug\MiCalculadora.Properties.Resources.resources
+C:\Users\Usuario\Desktop\Recuperatorio tps\PlucciKevinT`PNº1\MiCalculadora\obj\Debug\MiCalculadora.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\Recuperatorio tps\PlucciKevinT`PNº1\MiCalculadora\obj\Debug\MiCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Recuperatorio tps\PlucciKevinT`PNº1\MiCalculadora\obj\Debug\MiCalculadora.csproj.CopyComplete
+C:\Users\Usuario\Desktop\Recuperatorio tps\PlucciKevinT`PNº1\MiCalculadora\obj\Debug\MiCalculadora.exe
+C:\Users\Usuario\Desktop\Recuperatorio tps\PlucciKevinT`PNº1\MiCalculadora\obj\Debug\MiCalculadora.pdb
+C:\Users\Usuario\Desktop\Recuperatorio tps\PlucciKevinT`PNº1\MiCalculadora\obj\Debug\MiCalculadora.FormCalculadora.resources

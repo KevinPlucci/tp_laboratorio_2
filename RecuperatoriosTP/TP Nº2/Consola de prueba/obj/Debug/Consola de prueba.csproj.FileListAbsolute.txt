@@ -1,0 +1,20 @@
+C:\Users\Ianch\OneDrive\Escritorio\TP Nº2\Consola de prueba\bin\Debug\Consola de prueba.exe.config
+C:\Users\Ianch\OneDrive\Escritorio\TP Nº2\Consola de prueba\bin\Debug\Consola de prueba.exe
+C:\Users\Ianch\OneDrive\Escritorio\TP Nº2\Consola de prueba\bin\Debug\Consola de prueba.pdb
+C:\Users\Ianch\OneDrive\Escritorio\TP Nº2\Consola de prueba\bin\Debug\Entidades.dll
+C:\Users\Ianch\OneDrive\Escritorio\TP Nº2\Consola de prueba\bin\Debug\Entidades.pdb
+C:\Users\Ianch\OneDrive\Escritorio\TP Nº2\Consola de prueba\obj\Debug\Consola de prueba.csprojAssemblyReference.cache
+C:\Users\Ianch\OneDrive\Escritorio\TP Nº2\Consola de prueba\obj\Debug\Consola de prueba.csproj.CoreCompileInputs.cache
+C:\Users\Ianch\OneDrive\Escritorio\TP Nº2\Consola de prueba\obj\Debug\Consola de prueba.csproj.CopyComplete
+C:\Users\Ianch\OneDrive\Escritorio\TP Nº2\Consola de prueba\obj\Debug\Consola de prueba.exe
+C:\Users\Ianch\OneDrive\Escritorio\TP Nº2\Consola de prueba\obj\Debug\Consola de prueba.pdb
+C:\Users\Usuario\Downloads\TP_No2\TP Nº2\Consola de prueba\bin\Debug\Consola de prueba.exe.config
+C:\Users\Usuario\Downloads\TP_No2\TP Nº2\Consola de prueba\bin\Debug\Consola de prueba.exe
+C:\Users\Usuario\Downloads\TP_No2\TP Nº2\Consola de prueba\bin\Debug\Consola de prueba.pdb
+C:\Users\Usuario\Downloads\TP_No2\TP Nº2\Consola de prueba\bin\Debug\Entidades.dll
+C:\Users\Usuario\Downloads\TP_No2\TP Nº2\Consola de prueba\bin\Debug\Entidades.pdb
+C:\Users\Usuario\Downloads\TP_No2\TP Nº2\Consola de prueba\obj\Debug\Consola de prueba.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\TP_No2\TP Nº2\Consola de prueba\obj\Debug\Consola de prueba.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\TP_No2\TP Nº2\Consola de prueba\obj\Debug\Consola de prueba.csproj.CopyComplete
+C:\Users\Usuario\Downloads\TP_No2\TP Nº2\Consola de prueba\obj\Debug\Consola de prueba.exe
+C:\Users\Usuario\Downloads\TP_No2\TP Nº2\Consola de prueba\obj\Debug\Consola de prueba.pdb

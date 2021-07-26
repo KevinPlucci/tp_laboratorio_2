@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Entidades.Celular">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEgAAABAAAgAAAAAAAAAAAAAAAAiA=</HashCode>
+      <FileName>Celular.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades.Deposito">
+    <Position X="2.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAARAAAACQBMAAAAAAgAAAAAAAAAAAAACAiA=</HashCode>
+      <FileName>Deposito.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades.Fabricante">
+    <Position X="4.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAQAAAEAAAAAAAAAAAAAAAAAAAAAAAAAiA=</HashCode>
+      <FileName>Fabricante.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades.Producto">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAAAAAAQAAAAUAAAAEAAAEAAAAAAIAiA=</HashCode>
+      <FileName>Producto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades.Tablet">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAEgAAAAAAAAgAAAAAAAAAAAAAAAiA=</HashCode>
+      <FileName>Tablet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="Entidades.EGama">
+    <Position X="4.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>EGama.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Entidades.EPais">
+    <Position X="6" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAACAAAAEA=</HashCode>
+      <FileName>EPais.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Entidades.EProducto">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAAAAAAACAAA=</HashCode>
+      <FileName>EProducto.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Entidades.ETipo">
+    <Position X="4.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAACAAAIAAAAIAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ETipo.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
